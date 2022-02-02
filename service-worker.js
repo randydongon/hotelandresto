@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hotelandresto/precache-manifest.968138d4afd4525c8246efdb6132eb8f.js"
+  "/hotelandresto/precache-manifest.382bc66656cf43c6d60f05b7072d8d68.js"
 );
 
 self.addEventListener('message', (event) => {

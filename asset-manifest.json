@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hotelandresto/static/css/main.d9a53baa.chunk.css",
-    "main.js": "/hotelandresto/static/js/main.2c67884d.chunk.js",
-    "main.js.map": "/hotelandresto/static/js/main.2c67884d.chunk.js.map",
+    "main.js": "/hotelandresto/static/js/main.10d23b1b.chunk.js",
+    "main.js.map": "/hotelandresto/static/js/main.10d23b1b.chunk.js.map",
     "runtime-main.js": "/hotelandresto/static/js/runtime-main.0ac1d7a7.js",
     "runtime-main.js.map": "/hotelandresto/static/js/runtime-main.0ac1d7a7.js.map",
     "static/css/2.d98961f1.chunk.css": "/hotelandresto/static/css/2.d98961f1.chunk.css",
     "static/js/2.44d82783.chunk.js": "/hotelandresto/static/js/2.44d82783.chunk.js",
     "static/js/2.44d82783.chunk.js.map": "/hotelandresto/static/js/2.44d82783.chunk.js.map",
     "index.html": "/hotelandresto/index.html",
-    "precache-manifest.968138d4afd4525c8246efdb6132eb8f.js": "/hotelandresto/precache-manifest.968138d4afd4525c8246efdb6132eb8f.js",
+    "precache-manifest.382bc66656cf43c6d60f05b7072d8d68.js": "/hotelandresto/precache-manifest.382bc66656cf43c6d60f05b7072d8d68.js",
     "service-worker.js": "/hotelandresto/service-worker.js",
     "static/css/2.d98961f1.chunk.css.map": "/hotelandresto/static/css/2.d98961f1.chunk.css.map",
     "static/css/main.d9a53baa.chunk.css.map": "/hotelandresto/static/css/main.d9a53baa.chunk.css.map",
@@ -43,6 +43,6 @@
     "static/css/2.d98961f1.chunk.css",
     "static/js/2.44d82783.chunk.js",
     "static/css/main.d9a53baa.chunk.css",
-    "static/js/main.2c67884d.chunk.js"
+    "static/js/main.10d23b1b.chunk.js"
   ]
 }

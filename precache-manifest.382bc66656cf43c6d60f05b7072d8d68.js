@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d399ccb9e06d7640cb231e39eb97e959",
+    "revision": "e5a9d03c6d021db6ae48e6085f9edf88",
     "url": "/hotelandresto/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hotelandresto/static/css/2.d98961f1.chunk.css"
   },
   {
-    "revision": "fc29cd50a85917fa3681",
+    "revision": "6b3ed552270c7c42eff5",
     "url": "/hotelandresto/static/css/main.d9a53baa.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hotelandresto/static/js/2.44d82783.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc29cd50a85917fa3681",
-    "url": "/hotelandresto/static/js/main.2c67884d.chunk.js"
+    "revision": "6b3ed552270c7c42eff5",
+    "url": "/hotelandresto/static/js/main.10d23b1b.chunk.js"
   },
   {
     "revision": "a0a6cafa78f615f0c2dc",
